@@ -14,3 +14,6 @@ This project is a simple BMI calculator built using JavaScript.
 
 ## Project Source
 Created during BorntoDev JavaScript Workshop.
+
+## Live Demo
+https://rotsukhonvongsuwon.github.io/bmi-calculator-js/
